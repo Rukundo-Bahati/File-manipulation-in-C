@@ -1,4 +1,6 @@
 <h1>File Manipulation in C: CRUD Operations</h1>
+![image](https://github.com/Rukundo-Bahati/File-manipulation-in-C/assets/150172206/ccb01c18-0eb6-4945-8b9f-67a1511e66be)
+
 This project demonstrates how to perform CRUD (Create, Read, Update, Delete) operations on a file in C.
 The program manages student records, including their ID, name, 
 and marks for three subjects. The records are stored in a file and manipulated through various functions.
